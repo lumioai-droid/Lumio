@@ -1,0 +1,8 @@
+{
+  "name": "Lumio AI",
+  "description": "An intelligent conversational interface featuring multi-modal AI capabilities including real-time voice, image/video generation, and research grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
